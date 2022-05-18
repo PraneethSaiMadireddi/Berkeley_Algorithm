@@ -39,4 +39,5 @@ Example:
     ```
 
 Sample Output:
-    <img width="710" alt="Screen Shot 2022-05-17 at 10 05 47 PM" src="https://user-images.githubusercontent.com/90710360/168942915-16b1c558-1bff-4ce4-b978-59a86e80a85e.png">
+
+<img width="710" alt="Screen Shot 2022-05-17 at 10 05 47 PM" src="https://user-images.githubusercontent.com/90710360/168942915-16b1c558-1bff-4ce4-b978-59a86e80a85e.png">
