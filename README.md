@@ -39,13 +39,4 @@ Example:
     ```
 
 Sample Output:
-    ```
-    praneethsai@Praneeths-MacBook-Air Berkeley_Algorithm % make run_berkeley
-    bash berkeley_algorithm/shell_script.sh 2 5
-    Process 2 : logical time before sync: 45, logical time after sync:28  --Time Daemon--
-    Process 1 : logical time before sync: 2, logical time after sync:28
-    Process 3 : logical time before sync: 38, logical time after sync:28
-    Process 4 : logical time before sync: 31, logical time after sync:28
-    Process 5 : logical time before sync: 24, logical time after sync:28
-    praneethsai@Praneeths-MacBook-Air Berkeley_Algorithm % 
-    ```
+    <img width="710" alt="Screen Shot 2022-05-17 at 10 05 47 PM" src="https://user-images.githubusercontent.com/90710360/168942915-16b1c558-1bff-4ce4-b978-59a86e80a85e.png">
