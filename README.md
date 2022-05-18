@@ -37,3 +37,15 @@ Example:
     ```
     ./bt.out 2 5
     ```
+
+Sample Output:
+    ```
+    praneethsai@Praneeths-MacBook-Air Berkeley_Algorithm % make run_berkeley
+    bash berkeley_algorithm/shell_script.sh 2 5
+    Process 2 : logical time before sync: 45, logical time after sync:28  --Time Daemon--
+    Process 1 : logical time before sync: 2, logical time after sync:28
+    Process 3 : logical time before sync: 38, logical time after sync:28
+    Process 4 : logical time before sync: 31, logical time after sync:28
+    Process 5 : logical time before sync: 24, logical time after sync:28
+    praneethsai@Praneeths-MacBook-Air Berkeley_Algorithm % 
+    ```
