@@ -18,18 +18,22 @@ Total number of processes in the distributed system and the process that is cons
 
 ## How to execute the code
 
-berkeley_algorithm/berkeley.cpp contains the code for the Berkeley’s algorithm with the time daemon and the calculation of the logical offset.
+`berkeley_algorithm/berkeley.cpp` contains the code for the Berkeley’s algorithm with the time daemon and the calculation of the logical offset.
 
 I've created a Makefile to compile and execute the code with the commands written already which makes it easy for you.
 
-make compile to compile the code.
+`make compile` to compile the code.
 
-make run_berkeley to run the program.
+`make run_berkeley` to run the program.
 
-I used the shell script shell_script.sh to indicate the time daemon process and the total number of processes.
+I used the shell script `shell_script.sh` to indicate the time daemon process and the total number of processes.
 
-If you want to run using the executable file then you can type in 
+If you want to run using the executable file then you can type in
+    ```
     ./bt.out <time_daemon> <total_number_process>
+    ```
     
-    Example:
+Example:
+    ```
     ./bt.out 2 5
+    ```
